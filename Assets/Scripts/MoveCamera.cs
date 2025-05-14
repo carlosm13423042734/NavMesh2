@@ -12,8 +12,8 @@ public class MoveCamera : MonoBehaviour
     private float x = 0.0f;
     public float y = 0.0f;
 
-    float velocityX = 40.0f;
-    float velocityY = 40.0f;
+    float velocityX = 80.0f;
+    float velocityY = 80.0f;
 
     float minY = 0.0f;
     float maxY = 60.0f;

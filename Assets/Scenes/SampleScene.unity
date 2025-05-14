@@ -1434,8 +1434,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1438015995}
-  vectorOffset: {x: 0, y: 0, z: 0}
-  y: 0
+  vectorOffset: {x: 0, y: 1, z: 0}
+  y: 1
 --- !u!1 &1022112570
 GameObject:
   m_ObjectHideFlags: 0
@@ -3028,6 +3028,10 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1438015995}
+    - target: {fileID: 6875852391525019786, guid: 27e86e1f953519041bfa0e37c17c8f58, type: 3}
+      propertyPath: m_Speed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7408823795877748159, guid: 27e86e1f953519041bfa0e37c17c8f58, type: 3}
       propertyPath: m_LocalPosition.x
       value: -13
