@@ -62,8 +62,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.navigation@2.0.6\\Runtime\\NavMeshSurface.cs",
               "ViewState": "AgIAAP0AAAAAAAAAAAArwA8BAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:45:23.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T11:45:23.937Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemiesSpawner.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwBsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T09:12:24.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T09:12:24.132Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T14:30:32.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T14:30:32.99Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MazeGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T18:06:19.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T18:06:19.696Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "Assets\\Scripts\\NavMeshGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:25:25.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T18:25:25.091Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:12:51.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T18:12:51.601Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Jugador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:02:32.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T16:02:32.612Z"
             },
             {
               "$type": "Document",
@@ -166,8 +159,7 @@
               "RelativeToolTip": "Assets\\Scripts\\AutoMove.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:53:09.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T15:53:09.598Z"
             }
           ]
         }
